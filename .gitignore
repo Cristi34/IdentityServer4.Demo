@@ -6,3 +6,7 @@
 obj
 bin
 /IdentityServer.Docs.Tutorial.API/IdentityServer.Docs.Tutorial.API.csproj.user
+bin
+obj
+/IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial.csproj.user
+/IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/.vs/IdentityServer.Docs.Tutorial/config
