@@ -3,3 +3,6 @@
 ################################################################################
 
 /IdentityServer.Docs.Tutorial.API/.vs/IdentityServer.Docs.Tutorial.API
+obj
+bin
+/IdentityServer.Docs.Tutorial.API/IdentityServer.Docs.Tutorial.API.csproj.user
