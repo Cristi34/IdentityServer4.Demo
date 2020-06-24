@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Crionita\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Crionita\\.nuget\\packages"
+    ]
+  }
+}
