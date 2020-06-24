@@ -13,3 +13,5 @@ obj
 obj
 bin
 /IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/.vs/IdentityServer.Docs.Tutorial/DesignTimeBuild
+.vs
+.vs
