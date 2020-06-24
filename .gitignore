@@ -10,3 +10,6 @@ bin
 obj
 /IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial.csproj.user
 /IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/.vs/IdentityServer.Docs.Tutorial/config
+obj
+bin
+/IdentityServer.Docs.Tutorial/IdentityServer.Docs.Tutorial/.vs/IdentityServer.Docs.Tutorial/DesignTimeBuild
